@@ -5,7 +5,8 @@ repo() {
     git commit -m "first commit"
     git branch -M main
     git remote add origin $1
-	expect $(pwd)/github.sh
+# 	~/.oh-my-zsh/custom/plugins/zsh-quick-repository/github.sh
+    expect $(pwd)/github.sh
     git push -f origin main
 }
 
