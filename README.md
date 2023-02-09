@@ -28,7 +28,7 @@ sudo yum install expect
 Using Oh-my-zsh:
 1. Clone this repository in oh-my-zsh's plugins directory:
 ```
-git clone https://github.com/mahreZ-Noob/zsh-quick-repository.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-quick-repository
+git clone https://github.com/mareZ-Noob/zsh-quick-repository.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-quick-repository
 ```
 2. Activate the plugin in ~/.zshrc:
 ```
